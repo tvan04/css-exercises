@@ -1,0 +1,22 @@
+p{
+    background-color: rgb(216, 175, 187);
+}
+
+.a{
+    font-family:"verdana";
+}
+
+#blue{
+    color: blue;
+    font-size: 36px;
+}
+
+#green{
+    background-color: rgb(170, 223, 170);
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.b{
+    font-size: 24px;
+}
